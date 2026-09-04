@@ -1,17 +1,23 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "files": [
     {
       "path": "config/test.cfg",
       "sha256": "660968C9CBE4FC78B966E64D18C246D529096A4CC8D8DA1CAB871B7B769E8A59",
       "size": 10,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.4/config_test.cfg"
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.5/config_test.cfg"
+    },
+    {
+      "path": "progress-test.bin",
+      "sha256": "9ED8ADA1283ED7A793A70CC1B51C4A340F367CE84707E1A7B8CF21EE3D288D77",
+      "size": 57465167,
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.5/progress-test.bin"
     },
     {
       "path": "test.txt",
       "sha256": "33352EB03353376E9BDB10EEBC1716D902AB189E2A83C056AE9DB42E83D2922B",
       "size": 10,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.4/test.txt"
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.5/test.txt"
     }
   ]
 }
