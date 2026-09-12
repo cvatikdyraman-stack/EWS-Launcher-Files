@@ -1,12 +1,12 @@
 {
   "formatVersion": 3,
-  "version": "1.0.47",
+  "version": "1.0.48",
   "packages": [
     {
       "name": "ews-pack-00.zip",
-      "sha256": "91F6BDDFF24972C16BA248A9802E3DA3C9AA74A9105734E915D2929822F93BC6",
+      "sha256": "E029A16F5456624A2E3C26422241476CA4B5CFA418AAA70BA61FA8A7AFB3AAD8",
       "size": 1971,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-00.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-00.zip",
       "files": [
         {
           "path": "config/dbd.toml",
@@ -22,9 +22,9 @@
     },
     {
       "name": "ews-pack-01.zip",
-      "sha256": "DE5FB3AFE010296500842D3CE910ED58738B96DDA4EAA904642B80F0D6FF4B0E",
+      "sha256": "CB0FA1D674EA6F1B40653431D32F688AE9F8F1E009B346978B0E5AABBF1C6C6F",
       "size": 3152984,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-01.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-01.zip",
       "files": [
         {
           "path": "config/cooleranims-common.toml",
@@ -50,9 +50,9 @@
     },
     {
       "name": "ews-pack-02.zip",
-      "sha256": "1F147623CA0E98FA0C3BF4CB293AFE918E7CE89FC61E0E899D451DC3D5E3898E",
+      "sha256": "FD3301F495EB56E0B2963F9C855EEC19F27F614418C8F2B721232D5CB79A2AFC",
       "size": 157398,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-02.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-02.zip",
       "files": [
         {
           "path": "config/immediatelyfast.json",
@@ -68,9 +68,9 @@
     },
     {
       "name": "ews-pack-03.zip",
-      "sha256": "3B2CCFF3C198C7E1C1E012E61CCC1BC101A07656E9C17506E9A8DABD6E323985",
+      "sha256": "AB4E7AEADB79A0298EDCBE27D91614204FAA0FC5B3A3B4A0086F52ED2BEABF73",
       "size": 2323213,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-03.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-03.zip",
       "files": [
         {
           "path": "config/rationcraft.toml",
@@ -91,9 +91,9 @@
     },
     {
       "name": "ews-pack-04.zip",
-      "sha256": "1047B9762F417FAF09F198AC25D163DA8542AB3822E4CA12C97C62DBC1D142F5",
-      "size": 2747,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-04.zip",
+      "sha256": "F7C19F5226125D0E4828E4E61CF084C206A0FAB2DC5ECAFDA916B09DC25678E0",
+      "size": 6521201,
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-04.zip",
       "files": [
         {
           "path": "config/fpvdrone/fpvdrone.json",
@@ -104,14 +104,19 @@
           "path": "config/vpb-projectiles[COMMON].toml",
           "sha256": "475157C66A1D2C93328C7D294EB09B484214F4590FE575494F1EC5C12A809959",
           "size": 1090
+        },
+        {
+          "path": "mods/capturepoints-1.0.0-radio-menu-fix.jar",
+          "sha256": "15A4790A106FDC1AEF38959B3C736FDAE77BE8D2BB9898F6BAB47A71F4875226",
+          "size": 6543075
         }
       ]
     },
     {
       "name": "ews-pack-06.zip",
-      "sha256": "DD464091DFC16851FA109EFEDFBF86D3BE6EFD5B0126826AE784D4085994F74C",
+      "sha256": "A1C368727A650C3C03604C4067954B0FCB4A404088491DEF5CC8D5D187530F75",
       "size": 1179,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-06.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-06.zip",
       "files": [
         {
           "path": "config/loginsystem.properties",
@@ -122,9 +127,9 @@
     },
     {
       "name": "ews-pack-07.zip",
-      "sha256": "F949C223EACB96147DA047FFC0AEEFF6098B4A334491E5BA243D349944BBD303",
+      "sha256": "580497289A4F085D151B5AF3114F841783BB630AB5A635FC74709E775BE2EA81",
       "size": 1113,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-07.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-07.zip",
       "files": [
         {
           "path": "config/immersivestamina-common.toml",
@@ -140,9 +145,9 @@
     },
     {
       "name": "ews-pack-08.zip",
-      "sha256": "FB012CC749CF545138E6B9052EC80CE03258CEB563E28C336D704A271180FE62",
+      "sha256": "632B488F4ED98892C0C41664D7678848C28B895E04D7266083816B914543EBC6",
       "size": 501,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-08.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-08.zip",
       "files": [
         {
           "path": "config/invnaut-common.toml",
@@ -158,9 +163,9 @@
     },
     {
       "name": "ews-pack-09.zip",
-      "sha256": "1EA4D198D20C083B01C09B0719D6A02B72F51DD40D9223030C76E57D047168E9",
+      "sha256": "8C03661E56BD1C3D7268C64BC40B4144F85E03FFFAF9199C83EC9781ADDC446C",
       "size": 12191,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-09.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-09.zip",
       "files": [
         {
           "path": "config/embeddium-mixins.properties",
@@ -181,9 +186,9 @@
     },
     {
       "name": "ews-pack-10.zip",
-      "sha256": "C3EE0EBDAD984CCAEFFAE39426B94F4EB11589862F0C17959070057ADAC4C144",
+      "sha256": "56E06E2A5471E15E1C8CF9B737676B9D1F38337F58DA1F06CE7F2A1EBAA42910",
       "size": 736,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-10.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-10.zip",
       "files": [
         {
           "path": "config/passablefoliage-common.yaml",
@@ -199,9 +204,9 @@
     },
     {
       "name": "ews-pack-11.zip",
-      "sha256": "54EE1CF75CB4936C4B59365BAFE4373B58E1AA2304FD432F033616153CB017EA",
+      "sha256": "41F9E7EF9FD65EC49842FFE49B4CFE0DFF3C31B46A708063CCE09D68BC1884E3",
       "size": 1651,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-11.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-11.zip",
       "files": [
         {
           "path": "config/sound_physics_remastered/reflectivity.properties",
@@ -212,9 +217,9 @@
     },
     {
       "name": "ews-pack-12.zip",
-      "sha256": "FB984C00EB5BA1726DFBFDC53EA1E2AB4415D52836AE3AD7BB9713E5D68956D4",
+      "sha256": "9DA770406AD42C6D4B75AA21C85BB2CD589B26B14C5D86BF8F7AF51E754AFE62",
       "size": 56490615,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-12.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-12.zip",
       "files": [
         {
           "path": "mods/tacz-1.20.1-1.1.8-hotfix.jar",
@@ -225,9 +230,9 @@
     },
     {
       "name": "ews-pack-13.zip",
-      "sha256": "5DC0FE04A320D812091952C3A13CE791392BCEF7A69C527F5F8B83EADDAD7B3F",
-      "size": 6884057,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-13.zip",
+      "sha256": "B183BFA4D01D11668094A6561CD9F506792221B447CA4104895AC8EB9A73769F",
+      "size": 365936,
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-13.zip",
       "files": [
         {
           "path": "config/curios-common.toml",
@@ -250,11 +255,6 @@
           "size": 17319
         },
         {
-          "path": "mods/capturepoints-1.0.0-radio-fixed.jar",
-          "sha256": "91AC4312701E0668B895A7D5623A1E0D8736553AE9D4CD70CDE4CA3A6E983388",
-          "size": 6542746
-        },
-        {
           "path": "mods/curios-forge-5.14.1\u002B1.20.1.jar",
           "sha256": "1E817919A35B37CF30524AAEC73F0CA5130452F23F168F844854DF282EB8E51F",
           "size": 398066
@@ -263,9 +263,9 @@
     },
     {
       "name": "ews-pack-14.zip",
-      "sha256": "3DEF02E4ABB381FBF8E2843F518A1244E81E5DF673844EFFB8CB9330C9CCFB35",
+      "sha256": "D9ACDA8BC78B528B675472A4EF1601EDB8C3A9A960A40D6296C4192A95952CA7",
       "size": 5296605,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-14.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-14.zip",
       "files": [
         {
           "path": "config/fancymenu/ui_themes/dark.json",
@@ -301,9 +301,9 @@
     },
     {
       "name": "ews-pack-15.zip",
-      "sha256": "3692C94F1DE80FA4966B184F60D60655EF52EE53B791985E18ED60A40D8CB64C",
+      "sha256": "53E9C5912ADA91AB72F3D51222745B3D36EE1431BFCBAD8DA3DC55EBCB35933A",
       "size": 180,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-15.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-15.zip",
       "files": [
         {
           "path": "config/xaero/lib/client.cfg",
@@ -314,9 +314,9 @@
     },
     {
       "name": "ews-pack-16.zip",
-      "sha256": "ADC307E4336AF633437CFECC0BDECF06FEDA9D97B1049BC03758E28A768EF98E",
+      "sha256": "46787B7A0926EC77D22046D665B4B22C6D9EC3DEA93E8C5A3B264EF34D87A2E4",
       "size": 33061582,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-16.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-16.zip",
       "files": [
         {
           "path": "config/chunky/config.json",
@@ -337,9 +337,9 @@
     },
     {
       "name": "ews-pack-17.zip",
-      "sha256": "B64C997A022DDE447B2418AD999E73F6B6FA87046021BF1B620108856ABCE5B8",
+      "sha256": "D62D259CE5DA0A9DDA4BFAE6CC38D0E6DF83F2521A0078926BF0F0DDAD35052E",
       "size": 2682,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-17.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-17.zip",
       "files": [
         {
           "path": "config/gunfireoverhaul-common.toml",
@@ -355,9 +355,9 @@
     },
     {
       "name": "ews-pack-18.zip",
-      "sha256": "DF8E4B06EDB7B29653560C33B3815B6E095ADEC2C1A2CCE8C6F8D2532389EF5E",
+      "sha256": "2EE94FF167F840AE31CD38A02782E040815E2D1B518F20448F275474CB89209B",
       "size": 1995611,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-18.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-18.zip",
       "files": [
         {
           "path": "config/chatanimation.json",
@@ -393,9 +393,9 @@
     },
     {
       "name": "ews-pack-19.zip",
-      "sha256": "C07631B93BA919D1ADE67137181805CC06B5342B3F161848A5BDB043579628B3",
+      "sha256": "83875E0A140FC799ECB529C696961111D6275503CF337EFB679BF288772086CE",
       "size": 683,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-19.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-19.zip",
       "files": [
         {
           "path": "config/ezweight/levels.json",
@@ -411,9 +411,9 @@
     },
     {
       "name": "ews-pack-20.zip",
-      "sha256": "12C1230E1E70A9DEFE6D12807701B21D4D333CBFCAB85351EEBFB648E3CB535C",
+      "sha256": "F79A9016C9FB1EEDF24148EDB87E60FB4267D589AA2742B5C2A82587D40CA687",
       "size": 164419,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-20.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-20.zip",
       "files": [
         {
           "path": "config/ezweight/items.json",
@@ -439,9 +439,9 @@
     },
     {
       "name": "ews-pack-21.zip",
-      "sha256": "66D423D6A7C5158396260C15026E3D01111C48C85AFCB079E766C9190E9219D8",
+      "sha256": "6E11AF324D4D43AA71AF36E9E20D413BAE47ABEB1808C1E7C9884CE0B3CA3CC1",
       "size": 3349,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-21.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-21.zip",
       "files": [
         {
           "path": "config/playerrevive-client.json",
@@ -457,9 +457,9 @@
     },
     {
       "name": "ews-pack-22.zip",
-      "sha256": "E641151C3D6400071C2B2B0D5EB4F43CB3D3C987AEC96B5BC52658BD05CBC8C8",
+      "sha256": "0A38C675FEA78FB9E2E4684BAE23B26BF3695190A3E20BBB49642F04183227F4",
       "size": 1298788,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-22.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-22.zip",
       "files": [
         {
           "path": "config/fcp-vpb-integration.json",
@@ -495,9 +495,9 @@
     },
     {
       "name": "ews-pack-23.zip",
-      "sha256": "11373AB2646A72C28632261E04ED0117C381BE2D1F9AB31B752DB213A3BE5C9A",
+      "sha256": "599BE4CB2396A30F4EEFB055F8CDA80D023C48BEC9A52B9436DDD01034A14A19",
       "size": 1027087,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-23.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-23.zip",
       "files": [
         {
           "path": "mods/chatanimation-forge-1.3.0\u002Bmc1.20.1.jar",
@@ -508,9 +508,9 @@
     },
     {
       "name": "ews-pack-24.zip",
-      "sha256": "3F07DBEE3BC7235B9223D9974A23577993FEBC7914DCE6A0016380387D8697C6",
+      "sha256": "DD04059CB83607A35F27E387F31531A01AD363A96CABDFE7E4BAA3942AF66690",
       "size": 652575,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-24.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-24.zip",
       "files": [
         {
           "path": "config/pointblank-common.toml",
@@ -541,9 +541,9 @@
     },
     {
       "name": "ews-pack-25.zip",
-      "sha256": "D7C0048B32E6CA281655A3D046B9BBC20D04F5A8C93999370A54CA6B02EC019D",
+      "sha256": "C367599DF0E616C3C931AAA703FE11E7807387A8809D46AEDB5020AEECB859D5",
       "size": 1029747,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-25.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-25.zip",
       "files": [
         {
           "path": "mods/cloth-config-11.1.136-forge.jar",
@@ -554,9 +554,9 @@
     },
     {
       "name": "ews-pack-26.zip",
-      "sha256": "4F44F5D2C117FEE35DFA0C4B354D884D261F679192843EDC37766D34FB515A26",
+      "sha256": "C8B03681D35C4E393A54985F2C59C44348D1614216C24865CBF85EA54D089246",
       "size": 3499,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-26.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-26.zip",
       "files": [
         {
           "path": "config/kiwi-common.yaml",
@@ -572,9 +572,9 @@
     },
     {
       "name": "ews-pack-27.zip",
-      "sha256": "FFBF7155AE6BEF5EFC27BCCFBFFF84BF3EE4E1A404939504BF4D93B05B3F9A61",
+      "sha256": "4916A9F29DED21C6C07652BF3AE6CD8EDEFB81DE27192F5E01ED016B5C7445BA",
       "size": 2165,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-27.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-27.zip",
       "files": [
         {
           "path": "config/voicechat/voicechat-client.properties",
@@ -585,9 +585,9 @@
     },
     {
       "name": "ews-pack-28.zip",
-      "sha256": "AD15447EE637ADCA19FCE29E18453611DFB428B48F0CC87EA86FAD7A28113781",
+      "sha256": "9B6FD1A44665DB68D95B7827B7E1863A21A2E846B2C9315CC007EC37D1E19712",
       "size": 1514914,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-28.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-28.zip",
       "files": [
         {
           "path": "config/komodo.toml",
@@ -638,9 +638,9 @@
     },
     {
       "name": "ews-pack-29.zip",
-      "sha256": "1344E7012390BF405B5BAC2F8B8D712FCA23653B3726466B5772CC468C08FEE2",
+      "sha256": "A026FF3B37A5B7659C8765928D5B4E3FAC0AD1D0D55DBDF0537E801FD53A5DF3",
       "size": 6777,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-29.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-29.zip",
       "files": [
         {
           "path": "config/invnaut_inventory.json",
@@ -666,9 +666,9 @@
     },
     {
       "name": "ews-pack-30.zip",
-      "sha256": "D1FAC12BEEB235AAC6BA2BEF4D7411830A788D87129EFDEF6010CFE54A2F9ACC",
+      "sha256": "750873F854D2BCE66DDBCCB3636F5E0FA98CC02791C2118D97A8752AA35CBE3A",
       "size": 2429647,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-30.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-30.zip",
       "files": [
         {
           "path": "mods/LuckPerms-Forge-5.4.102.jar",
@@ -684,9 +684,9 @@
     },
     {
       "name": "ews-pack-31.zip",
-      "sha256": "15FF27093FE729019F28BD0E750817ED4EA0C0DBFA3959D1DED852A673CB5771",
+      "sha256": "09DD1F1020EAE803326BFF84D9D4F18EC50BC6458737573FC39A9EF1B216E7D8",
       "size": 4754893,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-31.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-31.zip",
       "files": [
         {
           "path": "config/particlerain/config.json",
@@ -707,9 +707,9 @@
     },
     {
       "name": "ews-pack-32.zip",
-      "sha256": "01C369D3DD7B01F4B37D34CECD469BA0DC586E93BC2A4A7E2574D67779C6AFDD",
+      "sha256": "887EA3FA2EBC57D3877588992F89E86B8A567DBDDC6ABD7460CF6F9636488191",
       "size": 1802134,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-32.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-32.zip",
       "files": [
         {
           "path": "config/fancymenu/custom_gui_screens.txt",
@@ -745,9 +745,9 @@
     },
     {
       "name": "ews-pack-33.zip",
-      "sha256": "DDD5A39490C57567ABB11CC881652898177B8B4C244FF9B3966E5242CE53C644",
+      "sha256": "4A6E7CE5B17ED1B174D015AD5D78C956AEA27336EC916E728E6E05A6809DB4F3",
       "size": 3272755,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-33.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-33.zip",
       "files": [
         {
           "path": "config/flywheel-client.toml",
@@ -768,9 +768,9 @@
     },
     {
       "name": "ews-pack-34.zip",
-      "sha256": "4C766A64A27C7DCE8FCC649EAF84B9D6D456465A22B718302DB264481F71568C",
+      "sha256": "1DCEDD88121656C0B5D838DCAF2F99DA2F43E8EA0DCF7C6FDE31C65C5ADE2997",
       "size": 1009977,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-34.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-34.zip",
       "files": [
         {
           "path": "mods/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
@@ -781,9 +781,9 @@
     },
     {
       "name": "ews-pack-35.zip",
-      "sha256": "4115E37F823A10813EB214DE06BF58598E50F50EE280024D217B381824064F43",
+      "sha256": "7C72778D982543B7A24A9D34E37180E679C26CC666885194F6D5D63C85956012",
       "size": 54572634,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-35.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-35.zip",
       "files": [
         {
           "path": "config/pingwheel.server.json",
@@ -804,9 +804,9 @@
     },
     {
       "name": "ews-pack-36.zip",
-      "sha256": "256ACB2D94EB7175F53F05F008D213FFC761C018B0D6F20375EE496714711E4E",
+      "sha256": "EE166FC1F5C1811435F67B4262610B2295346D36DAF85E0FBB3C0F34FB4CF0FF",
       "size": 2409755,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-36.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-36.zip",
       "files": [
         {
           "path": "config/pingtomapxaeros-client.toml",
@@ -822,9 +822,9 @@
     },
     {
       "name": "ews-pack-37.zip",
-      "sha256": "19ABC189D2AFF94009BF41689D2EE314B9A8E15F927B07089B2A57E9F6C9F0C2",
+      "sha256": "C3EB6760572422535E833D6C1FB5491EF57603958998B1FF654DD86E96F48AAF",
       "size": 1428366,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-37.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-37.zip",
       "files": [
         {
           "path": "mods/Chunky-1.3.146.jar",
@@ -840,9 +840,9 @@
     },
     {
       "name": "ews-pack-38.zip",
-      "sha256": "60C431BDD84FABC1776B7D6139F3BA70252808AD2AE0BD51AEB617F95DEE5F4A",
+      "sha256": "13E31FEBE5B1CFB86277AC556A64DB995B2E8D454157051D867480E8AF67FE57",
       "size": 25282100,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-38.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-38.zip",
       "files": [
         {
           "path": "mods/Gunfire Overhaul-0.1.6-a.jar",
@@ -863,9 +863,9 @@
     },
     {
       "name": "ews-pack-39.zip",
-      "sha256": "5A69763F9D266E462436869EDF182481A9795E9A9B5BA43DBA80CBC26A08AC7C",
+      "sha256": "B1FE144852249C370AB123E47B4816D6D641FAFED71477B89670E1C34F2B7B45",
       "size": 324731,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-39.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-39.zip",
       "files": [
         {
           "path": "config/voicechat-client.toml",
@@ -886,9 +886,9 @@
     },
     {
       "name": "ews-pack-40.zip",
-      "sha256": "FD4313F185E5693972BC4A15E64923FA229278A755E1B7665F55810C7832E143",
+      "sha256": "1B4CF7D8922A2D62DE80DD58B3E1B82A17AA50D6E1BB034C0286261D870D5370",
       "size": 26372,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-40.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-40.zip",
       "files": [
         {
           "path": "config/vss-server-config.json",
@@ -904,9 +904,9 @@
     },
     {
       "name": "ews-pack-41.zip",
-      "sha256": "65D1905B9D80113EE4AEF302925457B08D35184EF95C511CD14345F3BD368CB6",
+      "sha256": "95DA21EFADF8B81C74E8BDF41A6D0799A317100841CDB8B12A666BF73ACC8933",
       "size": 106863,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-41.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-41.zip",
       "files": [
         {
           "path": "config/fcp-common.toml",
@@ -932,9 +932,9 @@
     },
     {
       "name": "ews-pack-42.zip",
-      "sha256": "59575971CA68EE63AF063934395F6E398DA94B22C1EFC892A6A0C4878FFB6383",
+      "sha256": "4AEBF5A3B004D5BC3651A5DA4ABDC8F3B57153BC80D45931F87142FDF7D76001",
       "size": 371,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-42.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-42.zip",
       "files": [
         {
           "path": "config/konkrete/locals/en_us.local",
@@ -945,9 +945,9 @@
     },
     {
       "name": "ews-pack-43.zip",
-      "sha256": "751CCE1D2FDB68BE3AA670B226150536F371150E8418D23742C732431FE3CC0D",
+      "sha256": "E8A2661C911AEE33F406B0014A9652FA5D7932996AD739CE9CBB2B555148F6D8",
       "size": 64350730,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-43.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-43.zip",
       "files": [
         {
           "path": "config/entityculling.json",
@@ -1008,9 +1008,9 @@
     },
     {
       "name": "ews-pack-44.zip",
-      "sha256": "5EC93DFFD8AC60E923DFCA66AFC40A41B41E3C893D50CE2FD2125E19A289E1C3",
+      "sha256": "D139FDD7DD83295CF006AB17AEAFF25C42C7A782F4FBEA796D15B717085F49BE",
       "size": 467,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-44.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-44.zip",
       "files": [
         {
           "path": "config/xaero/minimap/client.cfg",
@@ -1026,9 +1026,9 @@
     },
     {
       "name": "ews-pack-45.zip",
-      "sha256": "ED78E404E74C6D8C76480DBA610CE8812826295AB7CCE51345E399630D00A07E",
+      "sha256": "9FC1BED421E5D88BDEFC30B38B05E84E26CA3DEF24752118C6DDC91303195DD2",
       "size": 5523657,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-45.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-45.zip",
       "files": [
         {
           "path": "config/fancymenu/ui_themes/cozy_campfire.json",
@@ -1059,9 +1059,9 @@
     },
     {
       "name": "ews-pack-46.zip",
-      "sha256": "8C3AD91A4AFC17C4AD2580016CFA3975C44B6F1E6DF7C62704C5C9133C0483F8",
+      "sha256": "E0DFAAE1ECB485225EB440C8991F431F826505D6C7A1C7C4560B27C40C4D0218",
       "size": 144,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-46.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-46.zip",
       "files": [
         {
           "path": "config/xaeropatreon.txt",
@@ -1072,9 +1072,9 @@
     },
     {
       "name": "ews-pack-47.zip",
-      "sha256": "0371010613A3D31AF09E3C163659FBE314EB2047E1AB7F7ABBC0A81327F2290F",
+      "sha256": "17587CB1DD5710F34B315DF9EA70DABDDE20D908B76F98B1C4307C119C9FAC31",
       "size": 18068015,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-47.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-47.zip",
       "files": [
         {
           "path": "config/sodium-extra-options.json",
@@ -1105,9 +1105,9 @@
     },
     {
       "name": "ews-pack-48.zip",
-      "sha256": "B6E59EAD525506CF4CA2AADAF05005A019B2872293B2AA58A5C81A7D6CDA4BFB",
+      "sha256": "D94867555C5D90B3FCE89F8D4154E9CB43F1746116B3AEBCC898459394F59F96",
       "size": 1233,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-48.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-48.zip",
       "files": [
         {
           "path": "config/konkrete/locals/pl_pl.local",
@@ -1128,9 +1128,9 @@
     },
     {
       "name": "ews-pack-49.zip",
-      "sha256": "BBC9A713E33621168CBD71DB8688E645316D2E99375F7830D9203E6763B40312",
+      "sha256": "5655D21730F278439D6A9A8C7EFE94F61B5D07A6F1B56FCB6AE3DF32C3B976A2",
       "size": 1617281,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-49.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-49.zip",
       "files": [
         {
           "path": "config/fancymenu/ui_themes/cherry_blossom.json",
@@ -1166,9 +1166,9 @@
     },
     {
       "name": "ews-pack-50.zip",
-      "sha256": "C3E6987E257E303CC03302FC3A92F56AB236442C4DDAE71941F1087AE82C42E2",
+      "sha256": "7D01EF11EE285BBDD02434072390A646281A7AAE874EF68250DF08D0C074A66D",
       "size": 42543,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-50.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-50.zip",
       "files": [
         {
           "path": "config/xaerohud.txt",
@@ -1189,9 +1189,9 @@
     },
     {
       "name": "ews-pack-51.zip",
-      "sha256": "AF6F0AE9B9B13B3BA90CFFFDE13B0A20301CA2867EB954A5562A488D22755C38",
+      "sha256": "D6B061B1D10529404938AB4897662B7A79FD65C8A504AC287485401457564997",
       "size": 5196,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-51.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-51.zip",
       "files": [
         {
           "path": "config/sound_physics_remastered/occlusion.properties",
@@ -1222,9 +1222,9 @@
     },
     {
       "name": "ews-pack-52.zip",
-      "sha256": "3D410BD3C13E8CBF5F33EAC9937AFF16F597A04DCC928B537BAEDF75F2CA99EE",
+      "sha256": "14B3A2A4A1F887B1615EB2D6C0C1CAD76A9CD67848E291D6344731DFF0FDBD34",
       "size": 4047,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-52.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-52.zip",
       "files": [
         {
           "path": "config/fancymenu/options.txt",
@@ -1240,9 +1240,9 @@
     },
     {
       "name": "ews-pack-53.zip",
-      "sha256": "A06CCFF09B992BE5B8E67629280A6E9AD6E18513C519988700A243818394638C",
+      "sha256": "2329D73BE6C62EBDDA39202AA5B2588431DD4522C726F2AB7374FEFF6808538B",
       "size": 1927795,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-53.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-53.zip",
       "files": [
         {
           "path": "config/pingwheel.json",
@@ -1263,9 +1263,9 @@
     },
     {
       "name": "ews-pack-54.zip",
-      "sha256": "B8C973BCBEC7F3D0131DBAD20D2F05153E0DB5A7A433DB8984729542BEFC4B94",
+      "sha256": "92EE1D9D2972EAA9B854EC07CD20F7A948E7DDEEA8D7F9AAF49C636781A3F3C2",
       "size": 7247250,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-54.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-54.zip",
       "files": [
         {
           "path": "config/smoothplayeranimations.json",
@@ -1291,9 +1291,9 @@
     },
     {
       "name": "ews-pack-55.zip",
-      "sha256": "0A795D6A0DCF52207F3563F3919C8A9959441F29D45E742CD5173C0C56B862DC",
+      "sha256": "E40AE9DAD88B4CA9C325D4CF5681F8AB4E3D1DD94848E4ED2AB2AB2E7B6AB008",
       "size": 34795071,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-55.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-55.zip",
       "files": [
         {
           "path": "config/fancymenu/ui_themes/light.json",
@@ -1329,9 +1329,9 @@
     },
     {
       "name": "ews-pack-56.zip",
-      "sha256": "0A91EB98882BA582A48DAEBCA65C097AF723DF029A58EFCE28F627D667C2B2D5",
+      "sha256": "ED84657B133823BB8DD5AE31DEEE9C0A64193483C5A5970EA2563F6938433D9F",
       "size": 1891547,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-56.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-56.zip",
       "files": [
         {
           "path": "config/fancymenu/ui_themes/purple_void.json",
@@ -1367,9 +1367,9 @@
     },
     {
       "name": "ews-pack-57.zip",
-      "sha256": "1345BDD8EE9341D4C053F8102205D2CE22AC43852355149DDD23A46F785FED3E",
+      "sha256": "E06C951F603534C928056EDE12E4AF0C3CD1C25F3B797EDAEECAEE2D2C12E997",
       "size": 6627718,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-57.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-57.zip",
       "files": [
         {
           "path": "config/embeddium-options.json",
@@ -1395,9 +1395,9 @@
     },
     {
       "name": "ews-pack-58.zip",
-      "sha256": "200E235F25647EC5502117BF7AD8B5FEF39202AB04C5B892A655F01BB05D3BD9",
+      "sha256": "079C354740096DA86F2744C05D401B008D5F92A68BF2815ACEFA184AA71CC93B",
       "size": 5383,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-58.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-58.zip",
       "files": [
         {
           "path": "config/fancymenu/customizablemenus.txt",
@@ -1418,9 +1418,9 @@
     },
     {
       "name": "ews-pack-59.zip",
-      "sha256": "B6B752515A75B0C19D846FB63E6B3FAB7CB05DD4095D6EC995F872A2D04E20E6",
+      "sha256": "507C41593C6F581405AC60F35B2FC313BA771FE747A7A0BF97FAAF103B87DB69",
       "size": 139238,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-59.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-59.zip",
       "files": [
         {
           "path": "config/embeddium-fingerprint.json",
@@ -1441,9 +1441,9 @@
     },
     {
       "name": "ews-pack-60.zip",
-      "sha256": "6D92823BBD5B17DB24DA1ABB09AB6715474C942F92046866BB7BCBBBE74B3FEE",
+      "sha256": "FAF3423EEB53AF1CF43A89CD9BE981415929465812CD4BCC577848B398F09D7A",
       "size": 3434,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-60.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-60.zip",
       "files": [
         {
           "path": "config/ambientsounds-client.json",
@@ -1469,9 +1469,9 @@
     },
     {
       "name": "ews-pack-61.zip",
-      "sha256": "F5493D7F09BE4758D8D8DDE32F7EF663A0454592E8775A6CC07C3A356928EBF2",
+      "sha256": "D51669CF6B4A5560F891C6BE58A3721EC46D2BEF85DF4769DA2812194A5E99B8",
       "size": 19135208,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-61.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-61.zip",
       "files": [
         {
           "path": "config/playerrevive_compat-common.toml",
@@ -1507,9 +1507,9 @@
     },
     {
       "name": "ews-pack-62.zip",
-      "sha256": "12B8CEC1A3160A4D7BA0438586090EF9B8ED55F104C557526D2C5E42A90CE482",
+      "sha256": "1117C45A7123F600590C756AAA3E637C6B8F0CBA1DA2623043D7A87FFB0A6AE9",
       "size": 1678713,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-62.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-62.zip",
       "files": [
         {
           "path": "config/betterbloodoverlay_1_20_1-client.toml",
@@ -1535,9 +1535,9 @@
     },
     {
       "name": "ews-pack-63.zip",
-      "sha256": "4749E081B6171193309478FBD5C59AC89673F02D3E2D97B4EABB7FB8D3AF3D34",
+      "sha256": "0B594A2E0FC6E71587AE0342C9CAF2813486313E223BB2BC8BC024EE02CFA2C1",
       "size": 60498,
-      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.47/ews-pack-63.zip",
+      "url": "https://github.com/cvatikdyraman-stack/EWS-Launcher-Files/releases/download/v1.0.48/ews-pack-63.zip",
       "files": [
         {
           "path": "config/forge-client.toml",
